@@ -5,7 +5,7 @@ Version: 1.0
 Date: 2023-12-20
 Author: Yan-Feng Wu
 Maintainer: Yan-Feng Wu <yanfengwu13@fudan.edu.cn>
-Description: Simulation of Jump Diffusion models, including Square-Root 
+Description: Simulating Jump-Diffusion models, including Square-Root 
         Diffusion, Ornstein-Uhlenbeck Process, and some Affine Jump Diffusion.
 License: MIT + file LICENSE
 Encoding: UTF-8
