@@ -1,0 +1,4 @@
+useDynLib(simJD, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+importFrom("stats", "rchisq")
+exportPattern("^[[:alpha:]]+")

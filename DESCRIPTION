@@ -1,0 +1,18 @@
+Package: simJD
+Type: Package
+Title: Simulation of Jump Diffusion Models
+Version: 1.0
+Date: 2023-12-20
+Author: Yan-Feng Wu
+Maintainer: Yan-Feng Wu <yanfengwu13@fudan.edu.cn>
+Description: Simulation of Jump Diffusion models, including Square-Root 
+        Diffusion, Ornstein-Uhlenbeck Process, and some Affine Jump Diffusion.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: Rcpp (>= 1.0.10), stats
+LinkingTo: Rcpp
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
